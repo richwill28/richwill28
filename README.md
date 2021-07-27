@@ -10,3 +10,7 @@ I'm a Computer Engineering student at NUS, Singapore.
 ### ⚡ GitHub Stats
 
 <img alt="richwill28's GitHub Stats" src="https://github-readme-stats-richwill28.vercel.app/api?username=richwill28&show_icons=true&theme=nightowl" />
+
+### ✨ Most Used Languages
+
+<img alt="Most Used Languages" src="https://github-readme-stats-richwill28.vercel.app/api/top-langs/?username=richwill28&theme=nightowl" />
