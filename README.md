@@ -8,7 +8,7 @@ I'm Richard, currently a 2nd year Computer Engineering undergraduate at National
 
 - 🌱 I’m currently learning Java, TypeScript, C#, and Python
 - 📫 How to reach me: [richwill2812@gmail.com](mailto:richwill2812@gmail.com)
-- 🌈 Fun fact: The first thing I do when I touch a new IDE is to install Atom One Dark theme
+- 🌈 Fun fact: Installing Atom One Dark theme is the first priority when I touch a new IDE
 
 ### ⚡ GitHub Stats
 
