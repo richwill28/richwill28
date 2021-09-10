@@ -14,6 +14,4 @@ I'm Richard, currently a 2nd year Computer Engineering undergraduate at National
 
 <img alt="richwill28's GitHub Stats" src="https://github-readme-stats-richwill28.vercel.app/api?username=richwill28&show_icons=true&theme=nightowl" />
 
-### 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=richwill28&theme=nightowl)](https://git.io/streak-stats)
+![Metrics](https://metrics.lecoq.io/richwill28?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&achievements=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FSingapore)
