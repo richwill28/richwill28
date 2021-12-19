@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-I'm Richard, currently a 2nd year Computer Engineering undergraduate at National University of Singapore.
+I'm Richard, currently a 2nd year Computer Engineering undergraduate at the National University of Singapore.
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-willie-a5911b214/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-willie/)
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning Java, TypeScript, Python, and Rust
+- 🌱 I’m currently learning Python, Rust, Ruby, and Go
 - 📫 How to reach me: [richwill2812@gmail.com](mailto:richwill2812@gmail.com) or [e0550368@u.nus.edu](e0550368@u.nus.edu)
 - 🌈 Fun fact: Atom One Dark Theme is my daily driver
 
