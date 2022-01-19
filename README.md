@@ -6,7 +6,7 @@ I'm Richard, currently a 2nd year Computer Engineering undergraduate at the Nati
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning Python, Rust, Ruby, and Go
+- 🌱 I’m currently learning Rust and Python
 - 📫 How to reach me: [richwill2812@gmail.com](mailto:richwill2812@gmail.com) or [e0550368@u.nus.edu](e0550368@u.nus.edu)
 - 🌈 Fun fact: Atom One Dark Theme is my daily driver
 
