@@ -6,7 +6,8 @@ I'm Richard, currently a 2nd year Computer Engineering undergraduate at the Nati
 
 ### 🚀 About Me
 
-- 🌱 I’m currently learning Rust and Python
+- 👀 I'm looking for summer internship
+- 🌱 I'm currently learning Rust and Python
 - 📫 How to reach me: [e0550368@u.nus.edu](e0550368@u.nus.edu)
 - 🌈 Fun fact: Currently obsessed with mechanical keyboards
 
