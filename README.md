@@ -1,15 +1,15 @@
 ## Hi there 👋
 
-I'm Richard, currently a 2nd year Computer Engineering undergraduate at the National University of Singapore.
+I'm Richard, currently an undergraduate at National University of Singapore.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-willie/)
 
 ### 🚀 About Me
 
-- 👀 I'm looking for summer internship
-- 🌱 I'm currently learning Rust and Python
+- 👀 I'm looking for a summer internship
+- 🌱 My interests are programming languages, multimedia, and artificial intelligence
 - 📫 How to reach me: [e0550368@u.nus.edu](e0550368@u.nus.edu)
-- 🌈 Fun fact: Currently obsessed with mechanical keyboards
+- 🌈 Fun fact: currently obsessed with mechanical keyboards
 
 ### ⚡ GitHub Stats
 
