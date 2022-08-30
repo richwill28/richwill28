@@ -6,7 +6,7 @@ I'm Richard, currently an undergraduate at National University of Singapore.
 
 ### 🚀 About Me
 
-- 👀 I'm looking for a summer internship
+- 👀 I'm looking for an internship
 - 🌱 My interests are programming languages, multimedia, and artificial intelligence
 - 📫 How to reach me: [e0550368@u.nus.edu](e0550368@u.nus.edu)
 - 🌈 Fun fact: currently obsessed with mechanical keyboards
