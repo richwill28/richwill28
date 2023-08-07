@@ -2,14 +2,14 @@
 
 I'm Richard, currently an undergraduate at National University of Singapore.
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-willie/)
-
 ### 🚀 About Me
 
-- 👀 I'm looking for an internship
-- 🌱 My interests are programming languages, multimedia, and artificial intelligence
+- 👀 My interests are in all things **computer science**, more specifically:
+  - 🐛 Techniques in dynamic analysis for detecting bugs in concurrent programs.
+  - 🐣 The design and implementation of programming languages.
+  - 🍄 Topics in algorithms, program analysis, and computational complexity.
 - 📫 How to reach me: [e0550368@u.nus.edu](e0550368@u.nus.edu)
-- 🌈 Fun fact: currently obsessed with mechanical keyboards
+- 🌈 Fun fact: I'm obsessed with mechanical keyboards.
 
 ### ⚡ GitHub Stats
 
