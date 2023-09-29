@@ -4,12 +4,13 @@ I'm Richard, currently an undergraduate at National University of Singapore.
 
 ### 🚀 About Me
 
-- 👀 My interests are in all things **computer science**, more specifically:
-  - 🐛 Techniques in dynamic analysis for detecting bugs in concurrent programs.
-  - 🐣 The design and implementation of programming languages.
-  - 🍄 Topics in algorithms, program analysis, and computational complexity.
-- 📫 How to reach me: [e0550368@u.nus.edu](e0550368@u.nus.edu)
-- 🌈 Fun fact: I'm obsessed with mechanical keyboards.
+- 👀 My interests are in all things **computer science**. Recently, I have been exploring:
+  - 🎨 Theoretical computer science, particularly topics in computability and complexity theory.
+  - 🐣 The theory, design, and implementation of programming languages.
+  - 🐛 Techniques in static and dynamic analysis for detecting bugs in concurrent programs.
+  - 🍄 Topics in algorithms and data structures.
+- 📫 How to reach me: [richardw@u.nus.edu](richardw@u.nus.edu)
+- 🌈 Fun fact: obsessed with mechanical keyboards.
 
 ### ⚡ GitHub Stats
 
