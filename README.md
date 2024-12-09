@@ -1,16 +1,10 @@
 ## Hi there 👋
 
-I'm Richard, currently an undergraduate at National University of Singapore.
+I'm Richard, currently a research assistant at PLSE & FOCS lab, National University of Singapore.
 
 ### 🚀 About Me
 
-- 👀 My interests are in all things **computer science**. Recently, I have been exploring:
-  - 🎨 Theoretical computer science, particularly topics in computability and complexity theory.
-  - 🐣 The theory, design, and implementation of programming languages.
-  - 🐛 Techniques in static and dynamic analysis for detecting bugs in concurrent programs.
-  - 🍄 Topics in algorithms and data structures.
-- 📫 How to reach me: [richardw@u.nus.edu](richardw@u.nus.edu)
-- 🌈 Fun fact: obsessed with mechanical keyboards.
+I'm endlessly fascinated by the big questions in theoretical computer science, the elegance of mathematics, and the artistry of programming languages.
 
 ### ⚡ GitHub Stats
 
