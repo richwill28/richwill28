@@ -4,7 +4,7 @@ I'm Richard, currently a research assistant at PLSE & FOCS lab, National Univers
 
 ### 🚀 About Me
 
-I'm endlessly fascinated by the big questions in theoretical computer science, the elegance of mathematics, and the artistry of programming languages.
+I'm endlessly fascinated by the big questions in theoretical computer science, the elegance of mathematics, and the craft of programming languages.
 
 ### ⚡ GitHub Stats
 
